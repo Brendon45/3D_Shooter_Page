@@ -11,9 +11,9 @@
 
 - For any inquiries or feedback, please feel free to reach out to us:
 
-Brendon Jeje <jejebrendon722@gmail.com>
-Tafara Nyamhunga <c.tafaranyamhunga@gmail.com>
+Brendon Jeje:      <jejebrendon722@gmail.com>
 
-📌 Note: This project is currently under development. Stay tuned for more exciting updates and detailed information coming soon! 🎮🚀✨
+Tafara Nyamhunga:  <c.tafaranyamhunga@gmail.com>
 
-
+📌 Note: This project is currently under development.
+Stay tuned for more exciting updates and detailed information coming soon! 🎮🚀✨
