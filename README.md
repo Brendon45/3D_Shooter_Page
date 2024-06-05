@@ -1,11 +1,11 @@
-# The 3D_Shooter 🎮
+# The 3D_Shooter Project 🎮
 
 ## A Raycasting-Based 3D Game
 
 - This is a landing page for the 3D_Shooter Project.
 
 ## LICENCE
-- This project is licensed under the MIT License. See the <LICENCE></LICENCE> file for details.
+- This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact 🎉
 
