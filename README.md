@@ -2,7 +2,7 @@
 
 ## A Raycasting-Based 3D Game
 
-- This is a landing page for the 3D_Shooter Project.
+- This is a landing page for the [3D_Shooter Project](https://github.com/Brendon45/3D_Shooter.git). View the link ➡️ [3D_Shooter Landing Page](https://brendon45.github.io/3D_Shooter_Page/).
 
 ## LICENCE
 - This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
